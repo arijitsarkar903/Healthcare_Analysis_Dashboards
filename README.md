@@ -4,6 +4,9 @@
 This project involves the development of a Healthcare Analytics Dashboard using a detailed dataset to provide actionable insights into healthcare performance, patient demographics, medication usage, billing analysis, and financial performance. Created with Tableau, the dashboard aids healthcare administrators in making informed decisions to enhance service quality and operational efficiency.
 
 # Dataset Description
+
+Dataset Link: https://www.kaggle.com/datasets/prasad22/healthcare-dataset 
+
 The dataset used for this project includes the following columns:
 
 - Name: Patient's name
