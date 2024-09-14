@@ -45,7 +45,7 @@ _**Billing Analysis:**_
 - Billing by Hospitals: Hospitals like Sons and Miller and Cook PLC feature prominently in billing totals.
 - Billing by Insurance Providers: Medicare leads in total billing amounts, followed by Blue Cross and Aetna.
 
-_Financial Performance:_
+**_Financial Performance:_**
 
 - Average Length of Stay: Average stays have shown varied lengths, reflecting different treatment needs and patient conditions.
 - Patient Trends: Increased billing and patient numbers suggest effective patient retention and acquisition strategies.
@@ -56,6 +56,7 @@ _**Additional Insights:**_
 - Insurance Providers: Medicare consistently shows high billing totals, highlighting its significant role in patient coverage.
 
 ****Patient Details Dashboard****
+
 _**Patient Demographics:**_
 
 - Gender Distribution: The dataset indicates a slight male predominance among patients.
