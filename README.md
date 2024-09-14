@@ -1,4 +1,4 @@
-# Healthcare Analysis Dashboards
+# Healthcare Analysis Dashboards (Tableau)
 
 # Overview
 This project involves the development of a Healthcare Analytics Dashboard using a detailed dataset to provide actionable insights into healthcare performance, patient demographics, medication usage, billing analysis, and financial performance. Created with Tableau, the dashboard aids healthcare administrators in making informed decisions to enhance service quality and operational efficiency.
